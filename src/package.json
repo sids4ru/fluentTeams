@@ -1,0 +1,17 @@
+{
+  "name": "dialog-v0",
+  "version": "1.0.0",
+  "description": "An exported example from Fluent UI React, https://aka.ms/fluent-ui/",
+  "main": "index.js",
+  "dependencies": {
+    "@fluentui/code-sandbox": "0.65.0",
+    "@fluentui/docs-components": "0.65.0",
+    "@fluentui/react-icons-northstar": "0.65.0",
+    "@fluentui/react-northstar": "0.65.0",
+    "react": "^16.8.0 || ^17",
+    "react-dom": "^16.8.0 || ^17",
+    "prettier": "^2.0.0",
+    "react-scripts": "latest"
+  },
+  "keywords": []
+}
